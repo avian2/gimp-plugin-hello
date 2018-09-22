@@ -1,0 +1,7 @@
+This is a simple example plug-in for GIMP. It creates a new text layer with
+"Hello, World!" on the current image.
+
+I demonstated this plug-in in my "Extending GIMP with Python" talk at Ljubljana
+Python Meetup on 20 September 2018. You can find slides here:
+
+https://www.tablix.org/~avian/blog/articles/talks/extending_gimp_python.pdf
